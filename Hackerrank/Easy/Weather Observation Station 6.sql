@@ -1,4 +1,5 @@
-SELECT city
+SELECT 
+    city
 FROM STATION
 WHERE 
     city LIKE "a%" OR

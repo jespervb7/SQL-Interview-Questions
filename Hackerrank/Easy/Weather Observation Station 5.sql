@@ -17,7 +17,8 @@ WITH data AS
         FROM data ORDER BY 2, 1 
         LIMIT 1
     )
-SELECT *
+SELECT 
+    *
 FROM max_length
 UNION
 SELECT * 
