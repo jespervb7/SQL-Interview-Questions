@@ -39,5 +39,6 @@ CTE3 AS (
     GROUP BY client_id
 )
 
-SELECT TOP (1) client_id
+SELECT TOP (1) 
+        client_id
 FROM CTE3
