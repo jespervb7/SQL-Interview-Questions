@@ -4,5 +4,6 @@ This repository contains a collection of completed questions on:
 - https://www.hackerrank.com/
 - https://leetcode.com/problemset/database/
 - https://www.interviewbit.com/problems/
+- https://datalemur.com/questions
 
 My choice of language was MySQL and T-SQL (MSSQL) or KSQL
