@@ -8,6 +8,7 @@ Majority of the questions will be done in T-SQL dialect, but you can find some M
 ## The websites I use for practice questions
 
 Below is a list of the websites I have found so far and use for practice questions. These are pretty well known websites and I highly encourage you to seek and try them out yourself!
+You can also find links to my profiles, incase you want to verify I did the questions!
 
 1. [StrataScratch](https://www.stratascratch.com)
 2. [Hackerrank](https://www.hackerrank.com)
