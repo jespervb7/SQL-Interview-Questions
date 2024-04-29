@@ -5,9 +5,9 @@ The data collected in the csv files will eventually be used to display some info
 
 Majority of the questions will be done in T-SQL dialect, but you can find some MySQL, Postgres and some KQL
 
-## The websites I use
+## The websites I use for practice questions
 
-Below is a list of the websites I have found so far and use for practice questions
+Below is a list of the websites I have found so far and use for practice questions. These are pretty well known websites and I highly encourage you to seek and try them out yourself!
 
 1. [StrataScratch](https://www.stratascratch.com)
 2. [Hackerrank](https://www.hackerrank.com)
