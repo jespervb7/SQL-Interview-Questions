@@ -1,2 +1,2 @@
-interview_question_id,platform_id,language_id,date_started,date_completed,time_taken
-,,,,
+platform_id,language_id,interview_question_name,date_started,date_completed,time_taken
+1,1,Heart Attack Risk,30-04-2024,30-04-2024,286,

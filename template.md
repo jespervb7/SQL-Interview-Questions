@@ -9,8 +9,6 @@
 
 ## The question
 
-### Description
-
 ### Example data
 
 ### Example output
