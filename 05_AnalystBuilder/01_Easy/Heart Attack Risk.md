@@ -44,9 +44,9 @@ Below you will find my approach to solving this particular problem
 ### Comments
 
 We need to find a list of clients who fulfill the following conditions
-    - Over the age of 50 (>)
-    - Have a cholesterol level of 240 or higher (>=)
-    - Who weigh 200 or higher (>=)
+- Over the age of 50 (>)
+- Have a cholesterol level of 240 or higher (>=)
+- Who weigh 200 or higher (>=)
 
 We then are told to output all the columns and order those descending (highest to lowest) by cholesterol. Which results in the query below
 
