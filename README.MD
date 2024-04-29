@@ -1,10 +1,17 @@
-This repository contains a collection of completed questions on:
+# A collection for my completed SQL interview questions
 
-- https://www.stratascratch.com/
-- https://www.hackerrank.com/
-- https://leetcode.com/problemset/database/
-- https://www.interviewbit.com/problems/
-- https://datalemur.com/questions
-- https://www.analystbuilder.com/
+This repository contains a collection of completed interview questions. Alongside a few detailed statistics in each script!
+The data collected in the csv files will eventually be used to display some information in a Power BI dashboard.
 
-My choice of language was MySQL and T-SQL (MSSQL) or KSQL
+Majority of the questions will be done in T-SQL dialect, but you can find some MySQL, Postgres and some KQL
+
+## The websites I use
+
+Below is a list of the websites I have found so far and use for practice questions
+
+1. [StrataScratch](https://www.stratascratch.com)
+2. [Hackerrank](https://www.hackerrank.com)
+3. [Leetcode](https://leetcode.com/problemset/database)
+4. [Interviewbit](https://www.interviewbit.com/problems)
+5. [Datalemur](https://datalemur.com/questions)
+6. [Analystbuilder](https://www.analystbuilder.com)
