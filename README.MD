@@ -11,9 +11,13 @@ Below is a list of the websites I have found so far and use for practice questio
 You can also find links to my profiles, incase you want to verify I did the questions!
 
 1. [StrataScratch](https://www.stratascratch.com)
-    - [Profile](https://platform.stratascratch.com/user/Jespervb)
+    - [Link to profile](https://platform.stratascratch.com/user/Jespervb)
 2. [Hackerrank](https://www.hackerrank.com)
+    - [Link to profile](https://www.hackerrank.com/profile/jeppakanopolo)
 3. [Leetcode](https://leetcode.com/problemset/database)
+    - [Link to profile](https://leetcode.com/u/jespervb7/)
 4. [Interviewbit](https://www.interviewbit.com/problems)
+    - [Link to profile](https://www.interviewbit.com/profile/jespervb7/)
 5. [Datalemur](https://datalemur.com/questions)
 6. [Analystbuilder](https://www.analystbuilder.com)
+    - [Link to profile](https://www.analystbuilder.com/u/Jespervbb)
