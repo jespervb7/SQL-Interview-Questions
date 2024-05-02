@@ -1,6 +1,7 @@
 # [Heart Attack Risk](https://www.analystbuilder.com/questions/heart-attack-risk-FKfdn)
 
 ## Quick statistics
+
 |Statistic              |Value      |
 |--                     |--         |
 | Date started          | 30-04-2024          |
@@ -28,14 +29,12 @@ As Cholesterol level is the largest indicator, order the output by Cholesterol f
 | cholesterol | int       |
 | weight      | int       |
 
-
 ### Example output
 
 | patient_id | age | cholesterol | weight |
 |------------|-----|-------------|--------|
 | 1001       | 52  | 373         | 267    |
 | 1002       | 77  | 324         | 211    |
-
 
 ## Solution
 
@@ -44,6 +43,7 @@ Below you will find my approach to solving this particular problem
 ### Comments
 
 We need to find a list of clients who fulfill the following conditions
+
 - Over the age of 50 (>)
 - Have a cholesterol level of 240 or higher (>=)
 - Who weigh 200 or higher (>=)

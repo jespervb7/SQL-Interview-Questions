@@ -1,6 +1,7 @@
 # [<interview question>](<url to interview question>)
 
 ## Quick statistics
+
 |Statistic              |Value      |
 |--                     |--         |
 | Date started          |           |

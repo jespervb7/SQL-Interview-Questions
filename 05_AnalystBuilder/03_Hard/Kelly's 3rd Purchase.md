@@ -8,6 +8,7 @@
 | Time taken (seconds)  |420           |
 
 ## The question
+
 At Kelly's Ice Cream Shop, Kelly gives a 33% discount on each customer's 3rd purchase.
 
 Write a query to select the 3rd transaction for each customer that received that discount. Output the customer id, transaction id, amount, and the amount after the discount as "discounted_amount".
@@ -17,6 +18,7 @@ Order output on customer ID in ascending order.
 Note: Transaction IDs occur sequentially. The lowest transaction ID is the earliest ID.
 
 ### Example data
+
 | Field          	| Data Type 	|
 |----------------	|-----------	|
 | customer_id    	| int       	|
@@ -24,6 +26,7 @@ Note: Transaction IDs occur sequentially. The lowest transaction ID is the earli
 | amount         	| int       	|
 
 ### Example output
+
 | Customer_id 	| Transaction_id 	| Amount 	| Discounted_amount 	|
 |-------------	|----------------	|--------	|-------------------	|
 | 1001        	| 374711         	| 94     	| 62.98             	|
