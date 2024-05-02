@@ -1,6 +1,7 @@
 # [Kelly's 3rd Purchase](https://www.analystbuilder.com/questions/kellys-3rd-purchase-kFaIE)
 
 ## Quick statistics
+
 |Statistic              |Value      |
 |--                     |--         |
 | Date started          |30-04-2024           |
@@ -19,19 +20,19 @@ Note: Transaction IDs occur sequentially. The lowest transaction ID is the earli
 
 ### Example data
 
-| Field          	| Data Type 	|
-|----------------	|-----------	|
-| customer_id    	| int       	|
-| transaction_id 	| int       	|
-| amount         	| int       	|
+| Field           | Data Type  |
+|---------------- |----------- |
+| customer_id     | int        |
+| transaction_id  | int        |
+| amount          | int        |
 
 ### Example output
 
-| Customer_id 	| Transaction_id 	| Amount 	| Discounted_amount 	|
-|-------------	|----------------	|--------	|-------------------	|
-| 1001        	| 374711         	| 94     	| 62.98             	|
-| 1002        	| 415562         	| 50     	| 33.5              	|
-| 1003        	| 102487         	| 39     	| 26.13             	|
+| Customer_id  | Transaction_id  | Amount  | Discounted_amount  |
+|------------- |---------------- |-------- |------------------- |
+| 1001         | 374711          | 94      | 62.98              |
+| 1002         | 415562          | 50      | 33.5               |
+| 1003         | 102487          | 39      | 26.13              |
 
 ## Solution
 
