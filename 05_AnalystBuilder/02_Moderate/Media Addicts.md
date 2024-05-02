@@ -48,8 +48,27 @@ Below you will find my approach to solving this particular problem
 
 ### Comments
 
+We first have to find the average social media time. I decided to do it in a CTE for readability.
+Then we have to find the social media time per person. I used the first_name now, but ideally you would do this in a CTE too and by ID instead
+From there it's a simple group by and filter out the people with less than average social media time using the having clause.
+
 ### Code
 
 ```SQL
+-- first find the average amount of time on social media
+-- group their time in the next query.
+-- then filter out the people who are below the average time
+-- List out their names
 
+WITH avg_social_media_time AS (
+  SELECT AVG(media_time_minutes)  AS avg_social_media_time
+  FROM user_time
+)
+
+SELECT users.first_name
+FROM users
+LEFT JOIN user_time us_ti
+ON users.user_id = us_ti.user_id
+GROUP BY users.first_name
+HAVING SUM(us_ti.media_time_minutes) > (SELECT avg_social_media_time FROM avg_social_media_time)
 ```
