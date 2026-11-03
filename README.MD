@@ -20,4 +20,4 @@ You can also find links to my profiles, incase you want to verify I did the ques
     - [Link to profile](https://www.interviewbit.com/profile/jespervb7/)
 5. [Datalemur](https://datalemur.com/questions)
 6. [Analystbuilder](https://www.analystbuilder.com)
-    - [Link to profile](https://www.analystbuilder.com/u/Jespervbb)Vq!bXnPk8!@MK316#1A1HWr$2h&Nz^vB15UQT*^C@1feZ3^^U9RSczPZT6T
+    - [Link to profile](https://www.analystbuilder.com/u/Jespervbb)
